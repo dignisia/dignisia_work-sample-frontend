@@ -24,6 +24,8 @@ As an Administrator
 I want to be able to to view specific details about a user   
 So I can find their details to contact them through email or send a gift card to their home address
 
+Fork this repository, finalize your implementation and create a pull request.
+
 # Senior role requirments
 
 We are looking to hire an experienced senior software developer to head up our development team. In this role, you will be responsible for overseeing the development and implementation of our different parts of the system and mentor the junior developers.
